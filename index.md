@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="fr">
 
-You can use the [editor on GitHub](https://github.com/MonsieurDerrien/college/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+	<meta charset="utf-8"/>
+	<title>inscription code combat</title>	
+	<style>
+		a {
+			text-decoration: none;
+			color: green;
+		}
+		
+		h3 {
+			text-align: center;
+		}
+		
+		h1 {
+			color: red;
+			text-align: center;
+			text-transform: uppercase;
+		}
+		
+		#conteneur {
+			width: 80%;
+			display: flex;
+			justify-content: space-around;
+		}
+		
+		.bouton {
+			border-radius: 8px ;
+			font-family: Arial,sans-serif;
+			font-size: 1.6em;
+			width: 50px;
+			height: 30px;
+			padding-top: 7px; /*permet le centrage vertical*/
+			text-align: center;
+			color: #000;
+			background: #444;
+		     	background: linear-gradient( #555, #2C2C2C);
+			text-shadow: 0px 1px 0px rgba(255,255,255,0.2);
+			box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5),
+				    0 -1px 0 rgba( 255, 255, 255, 0.4);
+		
+		}
+		
+		.bouton:hover{
+		     color: #222;
+		     background: #555;
+		     background: linear-gradient( #777, #333);
+		}
+		
+		.bouton:active{
+		     color: #000;
+		     background: #444;
+		     background: linear-gradient( #555, #2C2C2C);
+		     box-shadow: 1px 1px 10px black inset, 
+		                 0 1px 0 rgba( 255, 255, 255, 0.4);
+		}
+	</style>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+	
+	<h1>Pour t'inscrire à code combat, clique sur ta classe</h1>
+	<h3>(et pas sur ton camarade de classe)</h3>
+	<div id="conteneur">
+		<div class="bouton">
+			<a href="https://codecombat.com/students?_cc=PointPowerBus">403</a>
+		</div>
+		<div class="bouton">
+			<a href="https://codecombat.com/students?_cc=LampColdThin">404</a>
+		</div>
+		<div class="bouton">
+			<a href="https://codecombat.com/students?_cc=SadUnderPark">408</a>
+		</div>
+		
+		<div class="bouton">
+			<a href="https://codecombat.com/students?_cc=BoxShopRice">410</a>
+		</div>
+	</div>
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MonsieurDerrien/college/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>

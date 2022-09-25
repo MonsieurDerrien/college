@@ -18,3 +18,15 @@
    * ### [TP 2 optimisations d'aires]()  
 
 # Niveau 3°
+
+* ## Algorithmique  
+
+   * ### [TP 1 retour sur les boucle de répétition bornées](./TP1.md)
+   * ### [TP 2 retour sur les variables et les listes]()
+   * ### [TP 3 instruction conditionnelles]()
+
+ * ## Tableur  
+
+   * ### [TP 1 formatage et adressage relatif]()
+   * ### [TP 2 fonctions et adressage absolu]()
+   * ### [TP 3 fonctions et instructions conditionnelles]()

@@ -25,8 +25,8 @@ body {
 }
 
 .categoryWrapper {
-    height: 400px;
-    width: 460px;
+    height: 200px;
+    width: 230px;
     background: url("http://ohlookawebsite.com/bathroomtestfull.jpg") no-repeat center center;
     display: flex;
     flex-direction: column;

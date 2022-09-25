@@ -1,4 +1,4 @@
-* # Niveau 4°  
+# Niveau 4°  
 
  * ## Algorithmique  
 
@@ -17,4 +17,4 @@
   * ### [TP 1 les bases de Geogebra]()
   * ### [TP 2 optimisations d'aires]()  
 
-* # Niveau 3°
+# Niveau 3°

@@ -113,7 +113,7 @@ body {
     width: 20px;
     height: 0;
 
-    border: 1px solid white;
+    border: 1px solid #b5e853;
     border-left: none;
     border-bottom: none;
 
@@ -133,7 +133,7 @@ body {
     right: 50%;
     width: 20px;
     height: 0;
-    border: 1px solid white;
+    border: 1px solid #b5e853;
     border-right: none;
     border-bottom: none;
     transition: height 0.15s ease-out, width 0.15s ease-out 0.15s;

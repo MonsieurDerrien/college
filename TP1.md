@@ -18,17 +18,17 @@
             <div class="categoryWrapper" id="Classes">
                 <h1>Classes</h1>
 
-                <button>
+                <button onclick="openPage('https://codecombat.com/students?_cc=SadUnderPark')">
                     <span>
                         <span>
                             <span data-attr-span="Quatre Cent Huit">
-                                <a href = "https://codecombat.com/students?_cc=SadUnderPark">408</a>
+                                408
                             </span>
                         </span>
                     </span>
                 </button>
 
-                <button>
+                <button onclick="openPage('https://codecombat.com/students?_cc=BoxShopRice')">
                     <span>
                         <span>
                             <span data-attr-span="Quatre Cent Dix">

@@ -22,7 +22,7 @@
                     <span>
                         <span>
                             <span data-attr-span="Quatre Cent Huit">
-                                408
+                                <a href = "https://codecombat.com/students?_cc=SadUnderPark">408</a>
                             </span>
                         </span>
                     </span>

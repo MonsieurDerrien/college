@@ -39,7 +39,7 @@
                 </button>
             </div>
         </div>
-    <script src="js/script.js"></script>
+    <script src="./script.js"></script>
     </body>
 
 </html>

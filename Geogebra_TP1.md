@@ -3,14 +3,14 @@
 <div align="center" style="color:red;">(20 points)</div>
 
 * ## Partie 1 : point, segment, droite et demi-droite
-1. a) Regarde la vidéo ci-dessous (site web et feuille blanche).
+   1. a) Regarde la vidéo ci-dessous (site web et feuille blanche).
 
-   b) Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
+      b) Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
       Prépare une feuille de dessin blanche.
       
-2. a) Regarde la vidéo ci-dessous (points, droites et demi-droites)
+   2. a) Regarde la vidéo ci-dessous (points, droites et demi-droites)
 
-   b) Regarde la vidéo ci-dessous (annuler la dernière action)
+      b) Regarde la vidéo ci-dessous (annuler la dernière action)
 
 ### Je m’évalue
 #### Exercice <span style="color:red;">(2 points)</span>
@@ -24,7 +24,7 @@
 Regarde la vidéo ci-dessous (construire une perpendiculaire).
 
 ### Je m’évalue
-#### Exercice (2 points)
+#### Exercice <span style="color:red;">(2 points)</span>
 1. Regarde la vidéo ci-dessous.
 
 3. Comme expliqué dans la vidéo de la question 1, clique sur le lien suivant fichier.
@@ -37,7 +37,7 @@ Regarde la vidéo ci-dessous (construire une perpendiculaire).
 Regarde la vidéo ci-dessous (construire une parallèle).
 
 ### Je m’évalue
-#### Exercice (2 points)
+#### Exercice <span style="color:red;">(2 points)</span>
 1. Comme expliqué dans la vidéo de tout à l'heure, clique sur le lien suivant fichier.
 
 2. Tracer les droites parallèles à la droite (AB) passant par les points C, D, E et F.
@@ -52,7 +52,7 @@ Regarde la vidéo ci-dessous (nouvelle feuille de dessin).
 Regarde la vidéo ci-dessous (construire un segment de longueur donnée et afficher la longueur de ce segment).
 
 ### Je m’évalue
-#### Exercice (2 points)
+#### Exercice <span style="color:red;">(2 points)</span>
 1. Construis la figure ci-dessous sur une nouvelle feuille de dessin.
 
 2. Vérifie que la figure est correcte en déplaçant les points.
@@ -65,7 +65,7 @@ Regarde la vidéo ci-dessous (construire un segment de longueur donnée et affic
 Regarde la vidéo ci-dessous (construction d’un rectangle et codage des angles droits)
 
 ### Je m’évalue
-#### Exercice (2 points)
+#### Exercice <span style="color:red;">(2 points)</span>
 1. Sur une nouvelle feuille de dessin, construis le rectangle ci-dessous et affiche le codage.
 
 2. Vérifie que la figure est correcte en déplaçant les points.
@@ -80,7 +80,7 @@ Regarde la vidéo ci-dessous (placer le milieu d’un segment puis coder ce mili
 Regarde la vidéo ci-dessous (construction d’un triangle dont on connaît les longueurs des trois côtés).
 
 ### Je m’évalue
-#### Exercice (2 points)
+#### Exercice <span style="color:red;">(2 points)</span>
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous :
   en commençant par construire le triangle BCD ;
   place ensuite les milieux I, J et K ;
@@ -95,7 +95,7 @@ Regarde la vidéo ci-dessous (construction d’un triangle dont on connaît les 
 Regarde la vidéo ci-dessous (construction d'angles)
 
 ### Je m'évalue
-#### Exercice (2 points)
+#### Exercice <span style="color:red;">(2 points)</span>
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous et affiche le codage.
 
 2. Vérifie que la figure est correcte en déplaçant les points.
@@ -109,7 +109,7 @@ Regarde la vidéo ci-dessous (construction de triangles ; deux longueurs encadre
 Regarde la vidéo ci-dessous (construction de triangles ; deux mesures d'angles encadrent une longueur)
 
 ### Je m’évalue
-#### Exercice (2 points)
+#### Exercice <span style="color:red;">(2 points)</span>
 1. Sur une nouvelle feuille de dessin, construis les deux triangles ci-dessous et affiche le codage.
 
 2. Vérifie que la figure est correcte en déplaçant les points.
@@ -121,7 +121,7 @@ Regarde la vidéo ci-dessous (construction de triangles ; deux mesures d'angles 
 Regarde la vidéo ci-dessous (construction d’un parallélogramme)
 
 ### Je m’évalue
-#### Exercice (2 points)
+#### Exercice <span style="color:red;">(2 points)</span>
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous et affiche le codage.
 
 2. Vérifie que la figure est correcte en déplaçant les points.
@@ -132,7 +132,7 @@ Regarde la vidéo ci-dessous (construction d’un parallélogramme)
 ## Partie 10 : ordre de construction
 Regarde la vidéo ci-dessous (ordre de construction)
 ### Je m’évalue
-#### Exercice (2 points)
+#### Exercice <span style="color:red;">(2 points)</span>
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous. Affiche le codage.
 
 2. Vérifie que la figure est correcte en déplaçant les points.

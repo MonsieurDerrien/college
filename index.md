@@ -14,7 +14,7 @@
 
  * ## Geogebra  
 
-   * ### [TP 1 les bases de Geogebra]()
+   * ### [TP 1 les bases de Geogebra](./Geogebra_TP1.md)
    * ### [TP 2 optimisations d'aires]()  
 
 # Niveau 3°

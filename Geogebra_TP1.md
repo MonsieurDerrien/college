@@ -34,7 +34,7 @@ Regarde la vidéo ci-dessous (construire une perpendiculaire).
 
 7. Exporte le fichier sous le nom nom_prenom_geogebra_TP1_partie2. Enregistre le fichier exporté sur le bureau.
 
-## Partie 3 : parallèles
+* ## Partie 3 : parallèles
 Regarde la vidéo ci-dessous (construire une parallèle).
 
 ### Je m’évalue
@@ -47,7 +47,7 @@ Regarde la vidéo ci-dessous (construire une parallèle).
 
 4. Enregistre le fichier exporté sur le bureau.
 
-## Partie 4 : segment de longueur donnée et codage de longueur
+* ## Partie 4 : segment de longueur donnée et codage de longueur
 Regarde la vidéo ci-dessous (nouvelle feuille de dessin).
 
 Regarde la vidéo ci-dessous (construire un segment de longueur donnée et afficher la longueur de ce segment).
@@ -62,7 +62,7 @@ Regarde la vidéo ci-dessous (construire un segment de longueur donnée et affic
 
 4. Enregistre le fichier exporté sur le bureau.
 
-## Partie 5 : rectangle et codage de l’angle droit
+* ## Partie 5 : rectangle et codage de l’angle droit
 Regarde la vidéo ci-dessous (construction d’un rectangle et codage des angles droits)
 
 ### Je m’évalue
@@ -75,7 +75,7 @@ Regarde la vidéo ci-dessous (construction d’un rectangle et codage des angles
 
 4. Enregistre le fichier exporté sur le bureau.
 
-## Partie 6 : milieu et codage du milieu
+* ## Partie 6 : milieu et codage du milieu
 Regarde la vidéo ci-dessous (placer le milieu d’un segment puis coder ce milieu).
 
 Regarde la vidéo ci-dessous (construction d’un triangle dont on connaît les longueurs des trois côtés).
@@ -92,7 +92,7 @@ Regarde la vidéo ci-dessous (construction d’un triangle dont on connaît les 
 3. Exporte le fichier sous le nom nom_prenom_geogebra_TP1_partie6.  
    Enregistre le fichier sur le bureau.
 
-## Partie 7 : angles
+* ## Partie 7 : angles
 Regarde la vidéo ci-dessous (construction d'angles)
 
 ### Je m'évalue
@@ -104,7 +104,7 @@ Regarde la vidéo ci-dessous (construction d'angles)
 3. Exporte le fichier sous le nom nom_prenom_geogebra_TP1_partie7.  
    Enregistre le fichier sur le bureau.
 
-## Partie 8 : triangles
+* ## Partie 8 : triangles
 Regarde la vidéo ci-dessous (construction de triangles ; deux longueurs encadrent une mesure d'angle)
 
 Regarde la vidéo ci-dessous (construction de triangles ; deux mesures d'angles encadrent une longueur)
@@ -118,7 +118,7 @@ Regarde la vidéo ci-dessous (construction de triangles ; deux mesures d'angles 
 3. Exporte le fichier sous le nom nom_prenom_geogebra_TP1_partie8.  
    Enregistre le fichier sur le bureau.
 
-## Partie 9 : parallélogramme
+* ## Partie 9 : parallélogramme
 Regarde la vidéo ci-dessous (construction d’un parallélogramme)
 
 ### Je m’évalue
@@ -130,7 +130,7 @@ Regarde la vidéo ci-dessous (construction d’un parallélogramme)
 3. Exporte le fichier sous le nom nom_prenom_geogebra_TP1_partie9.  
    Enregistre le fichier sur le bureau.
 
-## Partie 10 : ordre de construction
+* ## Partie 10 : ordre de construction
 Regarde la vidéo ci-dessous (ordre de construction)
 ### Je m’évalue
 #### Exercice <span style="color:red;">(2 points)</span>

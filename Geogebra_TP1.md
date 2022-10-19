@@ -21,7 +21,7 @@
 
 * ## Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
-1. Construis la figure ci-dessous sur la feuille de dessin.
+1. Construis la figure ci-dessous sur la feuille de dessin.  
    ![](./partie1.jpg)
    
 2. Regarde la vidéo ci-dessous (exportation d’un fichier)
@@ -73,7 +73,7 @@ Regarde la vidéo ci-dessous (construire un segment de longueur donnée et affic
 
 * ## Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
-1. Construis la figure ci-dessous sur une nouvelle feuille de dessin.
+1. Construis la figure ci-dessous sur une nouvelle feuille de dessin.  
    ![](./partie4.jpg)
 
 2. Vérifie que la figure est correcte en déplaçant les points.
@@ -89,7 +89,7 @@ Regarde la vidéo ci-dessous (construction d’un rectangle et codage des angles
 
 * ## Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
-1. Sur une nouvelle feuille de dessin, construis le rectangle ci-dessous et affiche le codage.
+1. Sur une nouvelle feuille de dessin, construis le rectangle ci-dessous et affiche le codage.  
    ![](./partie5.jpg)
 
 2. Vérifie que la figure est correcte en déplaçant les points.
@@ -112,7 +112,7 @@ Regarde la vidéo ci-dessous (construction d’un triangle dont on connaît les 
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous :
   &diams; en commençant par construire le triangle BCD ;
   &diams; place ensuite les milieux I, J et K ;
-  &diams; effectue le codage.
+  &diams; effectue le codage.  
 
    ![](./partie6.jpg)
 
@@ -128,7 +128,7 @@ Regarde la vidéo ci-dessous (construction d'angles)
 
 * ## Je m'évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
-1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous et affiche le codage.
+1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous et affiche le codage.  
    ![](./partie7.jpg)
 
 2. Vérifie que la figure est correcte en déplaçant les points.
@@ -147,7 +147,7 @@ Regarde la vidéo ci-dessous (construction de triangles ; deux mesures d'angles 
 
 * ## Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
-1. Sur une nouvelle feuille de dessin, construis les deux triangles ci-dessous et affiche le codage.
+1. Sur une nouvelle feuille de dessin, construis les deux triangles ci-dessous et affiche le codage.  
    ![](./partie8.jpg)
 
 2. Vérifie que la figure est correcte en déplaçant les points.
@@ -162,7 +162,7 @@ Regarde la vidéo ci-dessous (construction d’un parallélogramme)
 
 * ## Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
-1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous et affiche le codage.
+1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous et affiche le codage.  
    ![](./partie9.jpg)
 
 2. Vérifie que la figure est correcte en déplaçant les points.
@@ -177,7 +177,7 @@ Regarde la vidéo ci-dessous (ordre de construction)
 
 * ## Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
-1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous. Affiche le codage.
+1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous. Affiche le codage.  
    ![](./partie10.jpg)
 
 2. Vérifie que la figure est correcte en déplaçant les points.

@@ -1,6 +1,6 @@
 # Geogebra TP 1 : rappel des commandes de base
 
-<div align="center">(20 points)</div>
+<div align="center" style="color:red;">(20 points)</div>
 
 ## Partie 1 : point, segment, droite et demi-droite
 1. a) Regarde la vidéo ci-dessous (site web et feuille blanche).

@@ -2,15 +2,15 @@
 
 <div align="center" style="color:red;">(20 points)</div>
 
-* ## Partie 1 : point, segment, droite et demi-droite
-   1. a) Regarde la vidéo ci-dessous (site web et feuille blanche).
+* ## Partie 1 : point, segment, droite et demi-droite  
+1. a) Regarde la vidéo ci-dessous (site web et feuille blanche).
 
-      b) Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
+   b) Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
       Prépare une feuille de dessin blanche.
       
-   2. a) Regarde la vidéo ci-dessous (points, droites et demi-droites)
+2. a) Regarde la vidéo ci-dessous (points, droites et demi-droites)
 
-      b) Regarde la vidéo ci-dessous (annuler la dernière action)
+   b) Regarde la vidéo ci-dessous (annuler la dernière action)
 
 ### Je m’évalue
 #### Exercice <span style="color:red;">(2 points)</span>

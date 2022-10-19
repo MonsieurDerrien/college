@@ -2,7 +2,7 @@
 
 <div align="center" style="color:red;">(20 points)</div>
 
-* ## Partie 1 : point, segment, droite et demi-droite
+## Partie 1 : point, segment, droite et demi-droite
 
 1. a) Regarde la vidéo ci-dessous (site web et feuille blanche).
 
@@ -19,7 +19,7 @@
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/qFzO9Ev6dU8?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Annuler derniere action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ## Je m’évalue
+* Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Construis la figure ci-dessous sur la feuille de dessin.  
    ![](./partie1.jpg)
@@ -30,12 +30,12 @@
 
 3. Exporte la figure sous le nom nom_prenom_geogebra_TP1_partie1. Enregistre le fichier exporté sur le bureau.
 
-* ## Partie 2 : perpendiculaires
+## Partie 2 : perpendiculaires
 Regarde la vidéo ci-dessous (construire une perpendiculaire).
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/8OC14kupdrk?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Perpendiculaire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ## Je m’évalue
+* Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Regarde la vidéo ci-dessous.
 
@@ -47,12 +47,12 @@ Regarde la vidéo ci-dessous (construire une perpendiculaire).
 
 4. Exporte le fichier sous le nom nom_prenom_geogebra_TP1_partie2. Enregistre le fichier exporté sur le bureau.
 
-* ## Partie 3 : parallèles
+## Partie 3 : parallèles
 Regarde la vidéo ci-dessous (construire une parallèle).
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/wwIgRwPQ5RU?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Parallèles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ## Je m’évalue
+* Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Comme expliqué dans la vidéo de tout à l'heure, clique sur le lien suivant [fichier](https://www.geogebra.org/m/juhjpkgk).
 
@@ -62,7 +62,7 @@ Regarde la vidéo ci-dessous (construire une parallèle).
 
 4. Enregistre le fichier exporté sur le bureau.
 
-* ## Partie 4 : segment de longueur donnée et codage de longueur
+## Partie 4 : segment de longueur donnée et codage de longueur
 Regarde la vidéo ci-dessous (nouvelle feuille de dessin).
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/dOUsKunZcYc?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Nouvelle feuille" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -71,7 +71,7 @@ Regarde la vidéo ci-dessous (construire un segment de longueur donnée et affic
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/-7fQnAqs4MM?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Segment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ## Je m’évalue
+* Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Construis la figure ci-dessous sur une nouvelle feuille de dessin.  
    ![](./partie4.jpg)
@@ -82,12 +82,12 @@ Regarde la vidéo ci-dessous (construire un segment de longueur donnée et affic
 
 4. Enregistre le fichier exporté sur le bureau.
 
-* ## Partie 5 : rectangle et codage de l’angle droit
+## Partie 5 : rectangle et codage de l’angle droit
 Regarde la vidéo ci-dessous (construction d’un rectangle et codage des angles droits)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/tuVIzzIxAu4?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Rectangle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ## Je m’évalue
+* Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis le rectangle ci-dessous et affiche le codage.  
    ![](./partie5.jpg)
@@ -98,7 +98,7 @@ Regarde la vidéo ci-dessous (construction d’un rectangle et codage des angles
 
 4. Enregistre le fichier exporté sur le bureau.
 
-* ## Partie 6 : milieu et codage du milieu
+## Partie 6 : milieu et codage du milieu
 Regarde la vidéo ci-dessous (placer le milieu d’un segment puis coder ce milieu).
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/WwKx5wlbCI8?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Milieu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -107,7 +107,7 @@ Regarde la vidéo ci-dessous (construction d’un triangle dont on connaît les 
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/eRSuGzrsN0Y?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Triangle 3cotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ## Je m’évalue
+* Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous :
   &diams; en commençant par construire le triangle BCD ;
@@ -121,12 +121,12 @@ Regarde la vidéo ci-dessous (construction d’un triangle dont on connaît les 
 3. Exporte le fichier sous le nom nom_prenom_geogebra_TP1_partie6.  
    Enregistre le fichier sur le bureau.
 
-* ## Partie 7 : angles
+## Partie 7 : angles
 Regarde la vidéo ci-dessous (construction d'angles)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/uipmwPfyqj0?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Angles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ## Je m'évalue
+* Je m'évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous et affiche le codage.  
    ![](./partie7.jpg)
@@ -136,7 +136,7 @@ Regarde la vidéo ci-dessous (construction d'angles)
 3. Exporte le fichier sous le nom nom_prenom_geogebra_TP1_partie7.  
    Enregistre le fichier sur le bureau.
 
-* ## Partie 8 : triangles
+## Partie 8 : triangles
 Regarde la vidéo ci-dessous (construction de triangles ; deux longueurs encadrent une mesure d'angle)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/HQNRhvnjAMw?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Triangle 2cotes 1angle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -145,7 +145,7 @@ Regarde la vidéo ci-dessous (construction de triangles ; deux mesures d'angles 
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/hQy0RwsLzoU?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Triangle 1cote 2angles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ## Je m’évalue
+* Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis les deux triangles ci-dessous et affiche le codage.  
    ![](./partie8.jpg)
@@ -155,12 +155,12 @@ Regarde la vidéo ci-dessous (construction de triangles ; deux mesures d'angles 
 3. Exporte le fichier sous le nom nom_prenom_geogebra_TP1_partie8.  
    Enregistre le fichier sur le bureau.
 
-* ## Partie 9 : parallélogramme
+## Partie 9 : parallélogramme
 Regarde la vidéo ci-dessous (construction d’un parallélogramme)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/M7nIvdgkrvw?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Parallelogramme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ## Je m’évalue
+* Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous et affiche le codage.  
    ![](./partie9.jpg)
@@ -170,12 +170,12 @@ Regarde la vidéo ci-dessous (construction d’un parallélogramme)
 3. Exporte le fichier sous le nom nom_prenom_geogebra_TP1_partie9.  
    Enregistre le fichier sur le bureau.
 
-* ## Partie 10 : ordre de construction
+## Partie 10 : ordre de construction
 Regarde la vidéo ci-dessous (ordre de construction)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/mJ8gyhRBenE?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Ordre construction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ## Je m’évalue
+* Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous. Affiche le codage.  
    ![](./partie10.jpg)

@@ -2,7 +2,7 @@
 
 <div align="center" style="color:red;">(20 points)</div>
 
-## Partie 1 : point, segment, droite et demi-droite
+* ## Partie 1 : point, segment, droite et demi-droite
 1. a) Regarde la vidéo ci-dessous (site web et feuille blanche).
 
    b) Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
@@ -13,14 +13,14 @@
    b) Regarde la vidéo ci-dessous (annuler la dernière action)
 
 ### Je m’évalue
-#### Exercice (2 points)
+#### Exercice <span style="color:red;">(2 points)</span>
 1. Construis la figure ci-dessous sur la feuille de dessin.
 
 2. Regarde la vidéo ci-dessous (exportation d’un fichier)
 
 3. Exporte la figure sous le nom nom_prenom_geogebra_TP1_partie1. Enregistre le fichier exporté sur le bureau.
 
-## Partie 2 : perpendiculaires
+* ## Partie 2 : perpendiculaires
 Regarde la vidéo ci-dessous (construire une perpendiculaire).
 
 ### Je m’évalue

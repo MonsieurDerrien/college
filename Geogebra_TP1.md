@@ -5,7 +5,7 @@
 * ## Partie 1 : point, segment, droite et demi-droite
 
 1. a) Regarde la vidéo ci-dessous (site web et feuille blanche).
-
+<iframe width="1904" height="806" src="https://www.youtube.com/embed/EKuF6DWu0No?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Site web" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    b) Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
       Prépare une feuille de dessin blanche.
       

@@ -19,7 +19,7 @@
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/qFzO9Ev6dU8?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Annuler derniere action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Je m’évalue
+## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Construis la figure ci-dessous sur la feuille de dessin.  
    ![](./partie1.jpg)
@@ -35,7 +35,7 @@ Regarde la vidéo ci-dessous (construire une perpendiculaire).
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/8OC14kupdrk?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Perpendiculaire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Je m’évalue
+## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Regarde la vidéo ci-dessous.
 
@@ -52,7 +52,7 @@ Regarde la vidéo ci-dessous (construire une parallèle).
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/wwIgRwPQ5RU?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Parallèles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Je m’évalue
+## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Comme expliqué dans la vidéo de tout à l'heure, clique sur le lien suivant [fichier](https://www.geogebra.org/m/juhjpkgk).
 
@@ -71,7 +71,7 @@ Regarde la vidéo ci-dessous (construire un segment de longueur donnée et affic
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/-7fQnAqs4MM?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Segment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Je m’évalue
+## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Construis la figure ci-dessous sur une nouvelle feuille de dessin.  
    ![](./partie4.jpg)
@@ -87,7 +87,7 @@ Regarde la vidéo ci-dessous (construction d’un rectangle et codage des angles
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/tuVIzzIxAu4?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Rectangle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Je m’évalue
+## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis le rectangle ci-dessous et affiche le codage.  
    ![](./partie5.jpg)
@@ -107,7 +107,7 @@ Regarde la vidéo ci-dessous (construction d’un triangle dont on connaît les 
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/eRSuGzrsN0Y?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Triangle 3cotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Je m’évalue
+## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous :
   &diams; en commençant par construire le triangle BCD ;
@@ -126,7 +126,7 @@ Regarde la vidéo ci-dessous (construction d'angles)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/uipmwPfyqj0?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Angles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Je m'évalue
+## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous et affiche le codage.  
    ![](./partie7.jpg)
@@ -145,7 +145,7 @@ Regarde la vidéo ci-dessous (construction de triangles ; deux mesures d'angles 
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/hQy0RwsLzoU?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Triangle 1cote 2angles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Je m’évalue
+## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis les deux triangles ci-dessous et affiche le codage.  
    ![](./partie8.jpg)
@@ -160,7 +160,7 @@ Regarde la vidéo ci-dessous (construction d’un parallélogramme)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/M7nIvdgkrvw?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Parallelogramme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Je m’évalue
+## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous et affiche le codage.  
    ![](./partie9.jpg)
@@ -175,7 +175,7 @@ Regarde la vidéo ci-dessous (ordre de construction)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/mJ8gyhRBenE?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Ordre construction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Je m’évalue
+## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 1. Sur une nouvelle feuille de dessin, construis la figure ci-dessous. Affiche le codage.  
    ![](./partie10.jpg)

@@ -2,7 +2,8 @@
 
 <div align="center" style="color:red;">(20 points)</div>
 
-* ## Partie 1 : point, segment, droite et demi-droite  
+* ## Partie 1 : point, segment, droite et demi-droite
+
 1. a) Regarde la vidéo ci-dessous (site web et feuille blanche).
 
    b) Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  

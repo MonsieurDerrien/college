@@ -4,18 +4,18 @@
 
 ## Partie 1 : point, segment, droite et demi-droite
 
-1. a) Regarde la vidéo ci-dessous (site web et feuille blanche).
+1. Regarde la vidéo ci-dessous (site web et feuille blanche).
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/EKuF6DWu0No?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Site web" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-   b) Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
-      Prépare une feuille de dessin blanche.
+2. Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
+   Prépare une feuille de dessin blanche.
       
-2. a) Regarde la vidéo ci-dessous (points, droites et demi-droites)
+3. Regarde la vidéo ci-dessous (points, droites et demi-droites)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/UIZrVx7wh7I?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Points droites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-   b) Regarde la vidéo ci-dessous (annuler la dernière action)
+ 4. Regarde la vidéo ci-dessous (annuler la dernière action)
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/qFzO9Ev6dU8?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Annuler derniere action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

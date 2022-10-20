@@ -8,8 +8,8 @@
 <div>
 <iframe width="800" height="600" src="https://www.youtube.com/embed/EKuF6DWu0No?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Site web" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-1. Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
-   Prépare une feuille de dessin blanche.
+* Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
+  Prépare une feuille de dessin blanche.
       
 * Regarde la vidéo ci-dessous (points, droites et demi-droites)
 <div>
@@ -21,14 +21,14 @@
 </div>
 ## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
-1. Construis la figure ci-dessous sur la feuille de dessin.  
+* Construis la figure ci-dessous sur la feuille de dessin.  
    ![](./partie1.jpg)
    
 * Regarde la vidéo ci-dessous (exportation d’un fichier)
 <div>
 <iframe width="800" height="600" src="https://www.youtube.com/embed/mINNwL5_HkY?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Exporter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-2. Exporte la figure sous le nom nom_prenom_geogebra_TP1_partie1. Enregistre le fichier exporté sur le bureau.
+* Exporte la figure sous le nom nom_prenom_geogebra_TP1_partie1. Enregistre le fichier exporté sur le bureau.
 
 ## Partie 2 : perpendiculaires
 * Regarde la vidéo ci-dessous (construire une perpendiculaire).
@@ -38,7 +38,7 @@
 ## >> Je m’évalue
 ### Exercice <span style="color:red;">(2 points)</span>  
 * Regarde la vidéo ci-dessous.
-</div>
+<div>
 <iframe width="800" height="600" src="https://www.youtube.com/embed/MeFBmpFhydQ?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Utilisation liens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 1. Comme expliqué dans la vidéo de la question 1, clique sur le lien suivant [fichier](https://www.geogebra.org/m/ety2efsc).

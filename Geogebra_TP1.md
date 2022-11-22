@@ -13,7 +13,7 @@
       
 * Regarde la vidéo ci-dessous (points, droites et demi-droites)
 <div>
-<iframe width="800" height="600" src="https://www.youtube.com/embed/UIZrVx7wh7I?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Points droites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="949" height="534" src="https://www.youtube.com/embed/UIZrVx7wh7I?list=PLxQB0vsUcHwdKyXGA3Hj2SF2mzDpsBVZg" title="Points droites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  * Regarde la vidéo ci-dessous (annuler la dernière action)
 <div>

@@ -6,7 +6,7 @@
 
 * Regarde la vidéo ci-dessous (site web et feuille blanche).
 <div>
-<iframe width="800" height="600" src="https://www.youtube.com/embed/EKuF6DWu0No?loop=1" title="Site web" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/EKuF6DWu0No?loop=1&rel=0" title="Site web" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 * Ouvre le navigateur internet et rends-toi sur le site web de Geogebra.  
   Prépare une feuille de dessin blanche.

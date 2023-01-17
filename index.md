@@ -3,7 +3,7 @@
  * ## Algorithmique  
 
    * ### [TP 1 initiation à la programmation](./TP1.md)
-   * ### [TP 2 boucles de répétitions bornées](./TP 2 boucle répéter cahier de textes 4°.pdf)
+   * ### [TP 2 boucles de répétitions bornées](./TP\ 2\ boucle\ répéter\ cahier\ de\ textes\ 4.pdf)
    * ### [TP 3 notion de variables et listes]()
 
  * ## Tableur  

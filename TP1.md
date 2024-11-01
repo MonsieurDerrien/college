@@ -28,11 +28,25 @@
                     </span>
                 </button>
 
-                <button onclick="openPage('https://codecombat.com/students?_cc=BoxShopRice')">
+                <button onclick="openPage('https://codecombat.com/students?_cc=GateWarmWide')">
                     <span>
                         <span>
-                            <span data-attr-span="Quatre Cent Dix">
-                                410
+                            <span data-attr-span="Quatre Cent Douze">
+                                412
+                            </span>
+                        </span>
+                    </span>
+                </button>
+            </div>
+        </div>
+    <script src="./script.js"></script>
+    </body>
+
+                <button onclick="openPage('https://codecombat.com/students?_cc=PartyStopBear')">
+                    <span>
+                        <span>
+                            <span data-attr-span="Quatre Cent Quatorze">
+                                414
                             </span>
                         </span>
                     </span>

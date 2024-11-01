@@ -37,11 +37,7 @@
                         </span>
                     </span>
                 </button>
-            </div>
-        </div>
-    <script src="./script.js"></script>
-    </body>
-
+              
                 <button onclick="openPage('https://codecombat.com/students?_cc=PartyStopBear')">
                     <span>
                         <span>
